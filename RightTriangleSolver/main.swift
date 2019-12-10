@@ -48,9 +48,8 @@ GetMeasurements()
 //Determine if the measurements form a right triangle
 //Determine the remaining measurements based on information provided
 
-if isRight {
+//if isRight {
     print("Your triangle has the following measurements:")
     print("a = \(calcSideA) b = \(calcSideB) c = \(calcSideC)")
     print("A = \(calcAngleA * 180 / pi) B = \(calcAngleB * 180 / pi) C = \(calcAngleC * 180 / pi)")
-}
-
+//}
