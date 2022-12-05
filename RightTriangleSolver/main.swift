@@ -24,11 +24,11 @@ var numOfSides : Int = 0
 var numOfAngles : Int = 0
 
 //Boolean variables to use for the CONTROL FLOW
+var isTriangle : Bool = false
 var isRight : Bool = false
 var isThreeSides : Bool = false
-var isTwoAngles : Bool = false
-var isOneAngle : Bool = false
-var isTriangle : Bool = false
+var isTwoSides : Bool = false
+var isOneSide : Bool = false
 
 //Setup a constant for pi
 let pi = 3.14159
